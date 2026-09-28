@@ -1,0 +1,41 @@
+{Error using loadjson (line 79)
+input file does not exist
+
+Error in loadfile (line 24)
+        answ = loadjson(strcat(ar.path_, filesep, fname, ar.ext_));
+
+Error in loadframe (line 9)
+    frame = loadfile(ar, name);
+} 
+{Unrecognized function or variable 'fr'.
+} 
+{Unrecognized function or variable 'fr'.
+} 
+{Unrecognized function or variable 'fr'.
+} 
+{Unrecognized function or variable 'ux'.
+} 
+{Unrecognized function or variable 'x'.
+} 
+{Unrecognized function or variable 'rmax'.
+} 
+{Unrecognized function or variable 'rmax'.
+} 
+{Unrecognized function or variable 'clist'.
+} 
+{Unrecognized function or variable 'comglist'.
+} 
+{Unrecognized function or variable 'S'.
+} 
+{Unrecognized function or variable 'ux'.
+} 
+{Unrecognized function or variable 'S'.
+} 
+{Unrecognized function or variable 'qx'.
+} 
+{Unrecognized function or variable 'ux'.
+} 
+{Unrecognized function or variable 'ux'.
+} 
+{Unrecognized function or variable 'rlist'.
+} 

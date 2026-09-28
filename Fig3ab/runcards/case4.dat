@@ -1,0 +1,52 @@
+#
+# Sample This is an example runcard for the binary fluid model..
+#
+
+# model and initial configuration
+model     = lyotropic
+config    = stripe
+nsteps    = 50000
+#nstart    = 19700
+ninfo     = 100
+bc     = 0
+LX        = 128
+LY        = 128
+
+# model parameters...
+# ...the mobility in the Beris-Edwards equation (for Q-Tensor)
+GammaQ     = 0.1
+# ...the mobility in the phase equation (for phi)
+GammaP     = 0.1
+#...tumbling/aligning parameter
+xi        = 0.7
+# ...relaxation time (viscosity) in nematic phase
+tauNem       = 2
+# ...relaxation time (viscosity) in isotropic phase
+tauIso       = 2
+# ...fluid density
+rho       = 200
+# ...isotropic friction
+friction  = 10
+# ...binary fluid bulk constant
+AA        = 0.15
+# ...coupling constant
+CC        = 1.0
+# ...elastic constant
+LL        = 0.2
+# ...binary gradient constant
+KK        = 0.01
+# ...activity parameter 
+zeta     = 0.02
+tfric    = 19000
+zeta2    = 0.4
+typpe    = -2
+frateF    = 100000
+frateQ    = 100000
+# initial configuration options...
+# ...starting angle
+angle  = 0
+# ...starting noise
+noise = 0.5
+# ...concentration of binary parameter in nematic region
+conc = 0.9
+level=20

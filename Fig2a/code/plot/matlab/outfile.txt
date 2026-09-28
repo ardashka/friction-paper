@@ -1,0 +1,53 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2020 The MathWorks, Inc.
+              R2020a Update 5 (9.8.0.1451342) 64-bit (glnxa64)
+                               August 6, 2020
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> 
+filename =
+
+    'test'
+
+>> >> 
+ans =
+
+    20
+
+>> 
+ans =
+
+     1
+
+>> >> loaded
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> calculated
+>> >> >> 
+fig = 
+
+  Figure (1) with properties:
+
+      Number: 1
+        Name: ''
+       Color: [0.9400 0.9400 0.9400]
+    Position: [10 10 900 600]
+       Units: 'pixels'
+
+  Use GET to show all properties
+
+>> >> >> >> >> >> >> >> >> [Warning: Integer operands are required for colon operator when used as index.] 
+[> In plotvelocity (line 4)
+] 
+[Warning: Integer operands are required for colon operator when used as index.] 
+[> In plotvelocity (line 4)
+] 
+[Warning: Integer operands are required for colon operator when used as index.] 
+[> In plotvelocity (line 5)
+] 
+[Warning: Integer operands are required for colon operator when used as index.] 
+[> In plotvelocity (line 5)
+] 
+>> >> >> >> >> >> >> >> 
