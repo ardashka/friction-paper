@@ -24,4 +24,4 @@ The simulation code is written in C++. Analysis and figure generation are perfor
 
 _Contact_
 
-For questions regarding the code or simulations, please contact the authors: aleksandra.ardaseva@epfl.ch, doostmohammadi@nbi.ku.dk
+For questions regarding the code or simulations, please contact the authors: aleksandra(DOT)ardaseva [] epfl.ch, doostmohammadi [] nbi.ku.dk
