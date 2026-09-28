@@ -2,11 +2,7 @@
 
 This repository contains the simulation and analysis code associated with the following publication:
 
-Aleksandra Ardaševa*, Ignasi Vélez-Cerón*, Martin Cramer Pedersen, Jordi Ignés-Mullol, Francesc Sagués, and Amin Doostmohammadi (*equal contribution)
-
-Beyond Dipolar Activity: Quadrupolar Stress Drives Collapse of Nematic Order on Frictional Substrates
-
-Phys. Rev. Lett. 134, 088301, 
+Aleksandra Ardaševa*, Ignasi Vélez-Cerón*, Martin Cramer Pedersen, Jordi Ignés-Mullol, Francesc Sagués, and Amin Doostmohammadi (*equal contribution). Beyond Dipolar Activity: Quadrupolar Stress Drives Collapse of Nematic Order on Frictional Substrates. Phys. Rev. Lett. 134, 088301, 
 https://doi.org/10.1103/PhysRevLett.134.088301
 
 The repository is organised according to the figures in the paper. Each figure directory contains the simulation code and/or data-processing scripts used to generate the corresponding results.
